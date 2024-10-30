@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "buffett-lunch-model": "github:the-Buffett-Lunch-Project/Buffett-Lunch-Model"
+  }
+}
